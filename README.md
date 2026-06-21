@@ -1,2 +1,2 @@
 # recipes
-The repository used for recipes project from TOP
+The repository used for the 'Recipes' project from TOP
